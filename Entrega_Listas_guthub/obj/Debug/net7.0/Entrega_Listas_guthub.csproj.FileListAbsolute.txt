@@ -1,0 +1,15 @@
+C:\Users\oleksandr\Documents\ciclo superior\DAM2\C PROJECT\m03\Entrega_Listas_guthub\Entrega_Listas_guthub\bin\Debug\net7.0\Entrega_Listas_guthub.exe
+C:\Users\oleksandr\Documents\ciclo superior\DAM2\C PROJECT\m03\Entrega_Listas_guthub\Entrega_Listas_guthub\bin\Debug\net7.0\Entrega_Listas_guthub.deps.json
+C:\Users\oleksandr\Documents\ciclo superior\DAM2\C PROJECT\m03\Entrega_Listas_guthub\Entrega_Listas_guthub\bin\Debug\net7.0\Entrega_Listas_guthub.runtimeconfig.json
+C:\Users\oleksandr\Documents\ciclo superior\DAM2\C PROJECT\m03\Entrega_Listas_guthub\Entrega_Listas_guthub\bin\Debug\net7.0\Entrega_Listas_guthub.dll
+C:\Users\oleksandr\Documents\ciclo superior\DAM2\C PROJECT\m03\Entrega_Listas_guthub\Entrega_Listas_guthub\bin\Debug\net7.0\Entrega_Listas_guthub.pdb
+C:\Users\oleksandr\Documents\ciclo superior\DAM2\C PROJECT\m03\Entrega_Listas_guthub\Entrega_Listas_guthub\obj\Debug\net7.0\Entrega_Listas_guthub.csproj.AssemblyReference.cache
+C:\Users\oleksandr\Documents\ciclo superior\DAM2\C PROJECT\m03\Entrega_Listas_guthub\Entrega_Listas_guthub\obj\Debug\net7.0\Entrega_Listas_guthub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleksandr\Documents\ciclo superior\DAM2\C PROJECT\m03\Entrega_Listas_guthub\Entrega_Listas_guthub\obj\Debug\net7.0\Entrega_Listas_guthub.AssemblyInfoInputs.cache
+C:\Users\oleksandr\Documents\ciclo superior\DAM2\C PROJECT\m03\Entrega_Listas_guthub\Entrega_Listas_guthub\obj\Debug\net7.0\Entrega_Listas_guthub.AssemblyInfo.cs
+C:\Users\oleksandr\Documents\ciclo superior\DAM2\C PROJECT\m03\Entrega_Listas_guthub\Entrega_Listas_guthub\obj\Debug\net7.0\Entrega_Listas_guthub.csproj.CoreCompileInputs.cache
+C:\Users\oleksandr\Documents\ciclo superior\DAM2\C PROJECT\m03\Entrega_Listas_guthub\Entrega_Listas_guthub\obj\Debug\net7.0\Entrega_Listas_guthub.dll
+C:\Users\oleksandr\Documents\ciclo superior\DAM2\C PROJECT\m03\Entrega_Listas_guthub\Entrega_Listas_guthub\obj\Debug\net7.0\refint\Entrega_Listas_guthub.dll
+C:\Users\oleksandr\Documents\ciclo superior\DAM2\C PROJECT\m03\Entrega_Listas_guthub\Entrega_Listas_guthub\obj\Debug\net7.0\Entrega_Listas_guthub.pdb
+C:\Users\oleksandr\Documents\ciclo superior\DAM2\C PROJECT\m03\Entrega_Listas_guthub\Entrega_Listas_guthub\obj\Debug\net7.0\Entrega_Listas_guthub.genruntimeconfig.cache
+C:\Users\oleksandr\Documents\ciclo superior\DAM2\C PROJECT\m03\Entrega_Listas_guthub\Entrega_Listas_guthub\obj\Debug\net7.0\ref\Entrega_Listas_guthub.dll
